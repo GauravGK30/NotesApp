@@ -17,7 +17,7 @@ You can **add** and **delete** notes, and your data stays saved even after refre
 - JavaScript
 - LocalStorage API
 
-- 
+  
 ## 🧠 How It Works
 
 1. **Adding Notes:**
